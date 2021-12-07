@@ -4,10 +4,6 @@
 
 [블로그]: https://juntribe.github.io/My_Blog/
 
-[googlelink]
-
-[googlelink]: https://google.com "Go google"
-
 <!--
 **juntribe/juntribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
