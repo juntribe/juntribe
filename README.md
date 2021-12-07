@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 안녕하세요 👋
+[블로그][https://juntribe.github.io/My_Blog/]
 <!--
 **juntribe/juntribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
