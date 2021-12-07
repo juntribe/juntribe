@@ -1,5 +1,6 @@
 ### 안녕하세요 👋
-블로그:https://juntribe.github.io/My_Blog/
+[블로그]
+[블로그]:https://juntribe.github.io/My_Blog/
 
 [googlelink]
 
